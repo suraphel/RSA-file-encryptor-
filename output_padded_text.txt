@@ -1,0 +1,42 @@
+Steps for application
+----------------------------- 
+
+The string to be converted 
+TO DO
+-----------------------------
+  
+Plain text => static or dynamic : ptext
+Convert the ptext to all caps 
+	Save the text to file 
+	Copy file content and ... 
+Convert text to  Ascii
+Remove spaces and white spaces 
+Divide text into block text of 4 chars per block 
+
+-----------------------------
+The RSA part 
+
+GCD  generator => 
+Prime number range => user input/ static
+Prime number generator => 
+Prime number tester => 
+Prime to odd converter => 
+Generate private and Public key 
+-----------------------------
+
+Encrypt the plain text 
+Send or save the cypher text to a file 
+
+
+-----------------------------
+Dycrypt the file 
+
+-----------------------------
+Test the application 
+
+
+
+
+
+
+
